@@ -1,8 +1,6 @@
 <!-- 🚀 Modern Animated Header | DevOps x Data Science | MLOps Enthusiast -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&pause=1000&color=43FF78&background=10000000&vCenter=true&width=900&lines=DevOps:+Automate+Everything.;Data+Science:+Make+Sense+of+Chaos.;MLOps:+Ops+Meets+AI.;Welcome+to+my+Tech+Lab+!" alt="Animated headline" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=00F5FF&vCenter=true&width=900&lines=Data+Science+Learner;Python+%7C+SQL+%7C+Power+BI;Aspiring+Data+Analyst;Welcome+to+My+Tech+Space!" /> </p>
 
 <div align="center">
   <!-- You can personalize these GIFs or replace with custom SVGs for maximum uniqueness -->
