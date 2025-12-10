@@ -59,16 +59,6 @@ flowchart TD
 
 ---
 
-## ⚡ Highlight Reel
-
-- Turned 15+ boring deployments into single-click magic 🎩.
-- Tamed microservices and tamed data pipelines (almost never at the same time).
-- Cat-wrangled YAML, Dockerfiles, and the occasional ML model, with infra that just won’t quit.
-- Made monitoring fun (with slick dashboards, alert memes, and lots of automation).
-- My mantra: **If I can automate it, I will. If not, I learn how.**
-
----
-
 ## 🔥 GitHub Dashboard — Fully Animated
 
 <div align="center">
@@ -78,28 +68,7 @@ flowchart TD
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham-saini18&theme=monokai" height="200"/>
 </div>
 
----
 
-### ⚡ Automation Fun Facts
-
-> "Did you know? The first DevOps engineer probably automated making coffee alongside deploys. I like to think my pipelines do both."
->
-> "Fact: Every data scientist spends 80% of their time cleaning data. The other 20%? Automating the cleaning for next time."
->
-> "When my pipelines break, I call it 'creative chaos.' It's just automation asking for attention."
->
-> "My favorite deployment status: 'Success after one tiny fix.' That fix? Usually a missing semicolon."
->
-> "The best pipeline is like a good joke—if you have to explain it, you should probably rewrite it."
-
----
-
-## ⚙️ Current Lab Experiments
-
-- Building versatile, self-healing DevOps pipelines
-- Architecting cloud infrastructure for flexible ML model deployment
-- Data wrangling & exploratory ML in Python (sometimes with pizza)
-- Researching MLOps edge cases (and memes for fun)
 
 ---
 
