@@ -12,16 +12,17 @@
 
 ---
 
-## 🧬 Learning Path
+## 🧬 My Tech Story: Automating + Innovating Across Stacks
 
 ```mermaid
 flowchart TD
-    Start((Start)) --> Python[Python & Libraries]
+    Start{{Learn Basics}} --> Python[Python for Data]
     Python --> SQL[SQL & Databases]
     SQL --> EDA[Exploratory Data Analysis]
-    EDA --> ML[ML Basics (Regression, Classification)]
-    ML --> BI[Dashboards (Power BI)]
+    EDA --> ML[Basic Machine Learning]
+    ML --> BI[Dashboards in Power BI]
     BI --> Projects[End-to-End Projects]
+```
 
 
 - **DevOps DNA**: Bash scripts at midnight, CI/CD pipelines that deploy like magic, infra that stays up even after my coffee runs out.
