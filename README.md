@@ -42,16 +42,15 @@ flowchart TD
   <!-- Others --> <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" /> </a> <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.shields.io/badge/Postgres-4169E1?logo=postgresql&logoColor=white" /> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white" /> </a> </div>
 
 ---
-
-## 🔥 GitHub Dashboard — Fully Animated
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyushsuthar07&show_icons=true&count_private=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushsuthar07&theme=radical" height="160"/>
+  <!-- GitHub Stats (Updated URL) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=piyushsuthar07&show_icons=true&theme=radical" height="160" />
+  <!-- GitHub Streak (Updated URL) -->
+  <img src="https://streak-stats.demolab.com/?user=piyushsuthar07&theme=radical" height="160" />
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyushsuthar07&theme=monokai" height="200"/>
+  <!-- Profile Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyushsuthar07&theme=monokai" height="200" />
 </div>
-
 
 
 ---
