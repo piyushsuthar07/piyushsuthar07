@@ -34,28 +34,12 @@ flowchart TD
 
 ## 💡 Toolbox of the Modern Era
 
-<div align="center">
-
-<!-- Skill badges: DevOps -->
-<img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-
-<!-- Skill badges: Data Science -->
-<img src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/tensorflow-FF6F00?logo=tensorflow&logoColor=white" />
-
-<!-- Skill badges: Other tools -->
-<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Postgres-4169E1?logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white" />
-
-</div>
+<div align="center"> 
+  <!-- DevOps --> 
+  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white" /> </a> <a href="https://kubernetes.io/" target="_blank"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" /> </a> <a href="https://www.jenkins.io/" target="_blank"> <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" /> </a> <a href="https://github.com/features/actions" target="_blank"> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white" /> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" /> </a> 
+  <!-- Data Science --> 
+  <a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" /> </a> <a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white" /> </a> <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" /> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white" /> </a> <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.shields.io/badge/tensorflow-FF6F00?logo=tensorflow&logoColor=white" /> </a> 
+  <!-- Others --> <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" /> </a> <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.shields.io/badge/Postgres-4169E1?logo=postgresql&logoColor=white" /> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white" /> </a> </div>
 
 ---
 
