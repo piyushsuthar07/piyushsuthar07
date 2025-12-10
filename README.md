@@ -1,32 +1,28 @@
-<!-- 🚀 Modern Animated Header | DevOps x Data Science | MLOps Enthusiast -->
+<!-- 🚀 Modern Animated Header | Data Science Learner -->
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=00F5FF&vCenter=true&width=900&lines=Data+Science+Learner;Python+%7C+SQL+%7C+Power+BI;Aspiring+Data+Analyst;Welcome+to+My+Tech+Space!" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=00F5FF&vCenter=true&width=900&lines=Data+Science+Learner;Python+%7C+SQL+%7C+Power+BI;Aspiring+Data+Analyst;Welcome+to+My+Tech+Space!" alt="typing" />
+</p>
 
-<div align="center">
-  <!-- You can personalize these GIFs or replace with custom SVGs for maximum uniqueness -->
-  <img src="https://github.com/shubham-saini18/shubham-saini18/assets/DevOps-rocket.gif" width="120" alt="Rocket DevOps animation">
-  <img src="https://github.com/shubham-saini18/shubham-saini18/assets/DataScience-robot.gif" width="120" alt="Robot Data Science animation">
-</div>
+<h1 align="center">Hi, I'm Piyush Suthar! 👋</h1>
 
-<h1 align="center">Hi, I'm Piyush SUthar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32"></h1>
-
-<p align="center" style="font-size: 1.2em">
-  <b>🚀 Data Science</b> <span style="color:#43FF78">|</span> <b>📈 Data Science Explorer</b> <span style="color:#43B0FF">|</span> <b>⚡ Data Analyst</b>
+<p align="center" style="font-size:1.05em">
+  <b>🚀 Data Science</b> &nbsp;|&nbsp; <b>📈 Aspiring Data Analyst</b> &nbsp;|&nbsp; <b>🧠 Python & Power BI</b>
 </p>
 
 ---
 
-## 🧬 My Tech Story: Automating + Innovating Across Stacks
+## 🧬 Learning Path
 
 ```mermaid
 flowchart TD
-    Start{{Learn Basics}} --> Python[Python for Data]
+    Start((Start)) --> Python[Python & Libraries]
     Python --> SQL[SQL & Databases]
     SQL --> EDA[Exploratory Data Analysis]
-    EDA --> ML[Basic Machine Learning]
-    ML --> BI[Dashboards in Power BI]
+    EDA --> ML[ML Basics (Regression, Classification)]
+    ML --> BI[Dashboards (Power BI)]
     BI --> Projects[End-to-End Projects]
-```
+
 
 - **DevOps DNA**: Bash scripts at midnight, CI/CD pipelines that deploy like magic, infra that stays up even after my coffee runs out.
 - **Data Science Vibes**: ML models that try (and sometimes fail), Python explorations, messy data—turned meaningful!
