@@ -25,10 +25,10 @@ flowchart TD
 ```
 
 
-- **DevOps DNA**: Bash scripts at midnight, CI/CD pipelines that deploy like magic, infra that stays up even after my coffee runs out.
-- **Data Science Vibes**: ML models that try (and sometimes fail), Python explorations, messy data—turned meaningful!
-- **Creative Mindset**: Every solution should be funky, fast, and fun to hack.
-- **MLOps Ambitions**: Seamless synergy between infrastructure and intelligence.
+- **Data Science Mindset**: I love turning raw, messy data into insights using Python, Pandas, NumPy, and ML models.
+- **ML Explorer**: Always experimenting with algorithms — classification, clustering, forecasting — and learning how to improve real-world predictions.
+- **Analytical Thinking**: I break down complex problems into simple, logical, and workable solutions.
+- **Curiosity Driven**: If data exists, I want to analyze it. If patterns exist, I want to find them.
 
 ---
 
