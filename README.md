@@ -106,8 +106,8 @@ flowchart TD
 ## 📡 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/shubham-saini-437984145"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sainishubham416@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/piyush-suthar07/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sutharpiyush033@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </div>
 
 ---
@@ -123,5 +123,5 @@ flowchart TD
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJyclF1b2RuMGRyY3MzYTFxeHc0YWNvb3VlbwktOdmlmc3Cobz7d4g/giphy.gif" height="100" alt="Confetti animation">
   <br>
-  <sub><i>Modern DevOps + DataScience by Shubham Saini</i></sub>
+  <sub><i>Modern Analyst + DataScience by Piyush Suthar</i></sub>
 </div>
