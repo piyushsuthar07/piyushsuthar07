@@ -20,12 +20,12 @@
 
 ```mermaid
 flowchart TD
-    DevOps{{DevOps}} -.->|Automate| Deploy[Pipeline & Deploy]
-    Deploy-->|Monitor| SRE[SRE Tools]
-    SRE -.->|Secure| Cloud[(Cloud Infra)]
-    Cloud -.-> ML[Model Training]
-    ML -.->|ML Deployment| MLOps[MLOps World]
-    DevOps -.->|Data Flows| DataScience{{DataScience}}
+    Start{{Learn Basics}} --> Python[Python for Data]
+    Python --> SQL[SQL & Databases]
+    SQL --> EDA[Exploratory Data Analysis]
+    EDA --> ML[Basic Machine Learning]
+    ML --> BI[Dashboards in Power BI]
+    BI --> Projects[End-to-End Projects]
 ```
 
 - **DevOps DNA**: Bash scripts at midnight, CI/CD pipelines that deploy like magic, infra that stays up even after my coffee runs out.
