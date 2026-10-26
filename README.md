@@ -24,14 +24,6 @@ flowchart TD
     BI --> Projects[End-to-End Projects]
 ```
 
-
-- **Data Science Mindset**: I love turning raw, messy data into insights using Python, Pandas, NumPy, and ML models.
-- **ML Explorer**: Always experimenting with algorithms — classification, clustering, forecasting — and learning how to improve real-world predictions.
-- **Analytical Thinking**: I break down complex problems into simple, logical, and workable solutions.
-- **Curiosity Driven**: If data exists, I want to analyze it. If patterns exist, I want to find them.
-
----
-
 ## 💡 Toolbox of the Modern Era
 
 <div align="center"> 
